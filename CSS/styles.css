@@ -1,0 +1,65 @@
+body{
+    background-color: ;
+    
+}
+td{
+    text-align: center;
+    padding: 10px;
+
+}
+.Sistemes{
+    background-color:#088000;
+    color: white;
+    font-weight: bold;
+}
+
+
+.PATI
+{
+    background-color: rgb(226, 226, 115);
+    font-weight: bold;
+}
+
+.Serveis{
+    background-color: #290087;
+    color: white;
+    font-weight: bold;
+}
+
+.Seguretat{
+    background-color: #84818E;
+    color: white;
+    font-weight: bold;
+}
+
+.Empresa{
+    background-color: #4ABD8C;
+    color: white;
+    font-weight: bold;
+}
+
+.Aplicacions{
+    background-color: #8DEE00;
+    color: white;
+    font-weight: bold;
+}
+.Dies{
+    background-color: rgb(152, 198, 238);
+    font-weight: bold;
+
+    width: 200px;
+}
+
+.Data{
+    background-color: rgb(152, 198, 238);
+    font-weight: bold;
+
+}
+.Grup{
+    background-color:rgb(152, 198, 238);
+    font-weight: bold;
+
+}
+table{
+    background-color: rgb(233, 217, 217);
+}
